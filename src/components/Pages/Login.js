@@ -7,7 +7,6 @@ export const Login = () => {
         <div className="login-container">
             <div className="container-sm">
             <form>
-
                 <h3>Log in</h3>
 
                 <div className="form-group">
